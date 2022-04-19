@@ -1,5 +1,5 @@
 ### Challenge
-This is a challenge from a React learning class from [Scrimba].(https://scrimba.com/) This is the [Figma](https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal) file of the Design, and the challenge is to build it as close as possible while using React lessons learned so far, which inlude Props, Components and an intro to APIs.
+This is a challenge from a React learning class from [Scrimba](https://scrimba.com/). This is the [Figma](https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal) file of the Design, and the challenge is to build it as close as possible while using React lessons learned so far, which inlude Props, Components and an intro to APIs.
 
 ### My Solution
 The layout turned out pretty much the same as the concept, but I decided to instead use my own "API data" instead of copying the given one to get a more personal and funny result. The places are not pointing towards the exact location on purpose (security) and the images are illustrative.
