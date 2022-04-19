@@ -18,7 +18,7 @@ The layout turned out pretty much the same as the concept, but I decided to inst
 - BEM
 
 ### My Process
-- First I wrote what would be the "API" data for App
+- First I wrote what would be the "API" data for the App
 - Created the individual components, added a footer aswell
 - Worked out the layout as close as possible to the original
 - Worked on pulling the data and applying it to the individual cards using props
